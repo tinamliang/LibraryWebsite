@@ -1,6 +1,6 @@
 # LibraryWebsite
 
-I created this for my school library's website and dabbled with a popular external web developer library known as bootstrap ** bold **.
+I created this for my school library's website and dabbled with a popular external web developer library known as bootstrap **bold**.
 
 This website is continually updated, and new code is pushed periodically to this link, that is branched off from my school's main webpage: 
 http://www.colonelby.com/teachers/library/
